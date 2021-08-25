@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JSPrimative", "JSPrimative\JSPrimative.vcxproj", "{E604ACA3-742B-45BE-9874-A398C7D8E248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSMTree", "FSMTree\FSMTree.csproj", "{E433F6FB-B2ED-4308-8AA4-BD20CD57301D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E604ACA3-742B-45BE-9874-A398C7D8E248}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{E604ACA3-742B-45BE-9874-A398C7D8E248}.Debug|x64.ActiveCfg = Debug|x64
+		{E604ACA3-742B-45BE-9874-A398C7D8E248}.Debug|x64.Build.0 = Debug|x64
+		{E604ACA3-742B-45BE-9874-A398C7D8E248}.Debug|x86.ActiveCfg = Debug|Win32
+		{E604ACA3-742B-45BE-9874-A398C7D8E248}.Debug|x86.Build.0 = Debug|Win32
+		{E604ACA3-742B-45BE-9874-A398C7D8E248}.Release|Any CPU.ActiveCfg = Release|Win32
+		{E604ACA3-742B-45BE-9874-A398C7D8E248}.Release|x64.ActiveCfg = Release|x64
+		{E604ACA3-742B-45BE-9874-A398C7D8E248}.Release|x64.Build.0 = Release|x64
+		{E604ACA3-742B-45BE-9874-A398C7D8E248}.Release|x86.ActiveCfg = Release|Win32
+		{E604ACA3-742B-45BE-9874-A398C7D8E248}.Release|x86.Build.0 = Release|Win32
+		{E433F6FB-B2ED-4308-8AA4-BD20CD57301D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E433F6FB-B2ED-4308-8AA4-BD20CD57301D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E433F6FB-B2ED-4308-8AA4-BD20CD57301D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E433F6FB-B2ED-4308-8AA4-BD20CD57301D}.Debug|x64.Build.0 = Debug|Any CPU
+		{E433F6FB-B2ED-4308-8AA4-BD20CD57301D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E433F6FB-B2ED-4308-8AA4-BD20CD57301D}.Debug|x86.Build.0 = Debug|Any CPU
+		{E433F6FB-B2ED-4308-8AA4-BD20CD57301D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E433F6FB-B2ED-4308-8AA4-BD20CD57301D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E433F6FB-B2ED-4308-8AA4-BD20CD57301D}.Release|x64.ActiveCfg = Release|Any CPU
+		{E433F6FB-B2ED-4308-8AA4-BD20CD57301D}.Release|x64.Build.0 = Release|Any CPU
+		{E433F6FB-B2ED-4308-8AA4-BD20CD57301D}.Release|x86.ActiveCfg = Release|Any CPU
+		{E433F6FB-B2ED-4308-8AA4-BD20CD57301D}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {790F66DF-AF48-461C-87B0-98BDECAD033D}
+	EndGlobalSection
+EndGlobal

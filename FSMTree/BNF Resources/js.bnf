@@ -1,0 +1,13 @@
+﻿Identifier 	::= 	<IDENTIFIER_NAME>;
+
+
+Literal 	::= 	( <DECIMAL_LITERAL> | <HEX_INTEGER_LITERAL> | <STRING_LITERAL> | <BOOLEAN_LITERAL> | <NULL_LITERAL> | <REGULAR_EXPRESSION_LITERAL> )
+
+PrimaryExpression 	::= 	"this"
+	| 	ObjectLiteral
+	| 	( "(" Expression ")" )
+	| 	Identifier
+	| 	ArrayLiteral
+	| 	Literal
+
+Identifier 	::= 	<IDENTIFIER_NAME>
